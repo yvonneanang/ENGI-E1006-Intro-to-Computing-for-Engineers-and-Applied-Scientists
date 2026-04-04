@@ -1,16 +1,35 @@
-#submitted by Yvonne Naa Ardua Anang (uni: yna2103)
-# completed by Mikaela Zhang(uni:xz2782) and Yvonne Naa Ardua Anang (uni:yna2103)
+#submitted by Yvonne Naa Ardua Anang (uni:yna2103)
+#collaborated with Joseph Duodu(uni: jd3519)
 
-# problem 1
+#part 1
+def piggify(word):
+    vowels ="aeiou"
+    if word[0] in vowels:
+        piggified = word + "yay"
+    
+    elif word[0] not in vowels:
+        for letter in word:
+            if letter in vowels:
+                index_of_letter = word.find(letter)
+                spliced_consonant = (word[:index_of_letter])
+                spliced_vowel = (word[index_of_letter:])
+                piggified = spliced_vowel + spliced_consonant + "ay"
+                break
+            if letter not in vowels:
+                piggified = word + "ay"
+    return piggified
 
-height_in_cm = int(input ("Please type height in centimeters:"))
-width_in_cm = int(input ("Please type width in centimeters:"))
-length_in_cm = int(input ("Please type length in centimeters:"))
+#part 2
+while True:
+    word = input("Please enter a word:>>>")
+    if word != ".":
+        answer = piggify(word)
+        print (answer)
+
+    if word == ".":
+        break
+    
 
 
-area_to_be_painted_cm_squared = (2 * width_in_cm*height_in_cm) + (2 * length_in_cm * height_in_cm) + (length_in_cm * width_in_cm)
-area_to_be_painted_m_squared = area_to_be_painted_cm_squared/10000
-paint_in_liters = area_to_be_painted_m_squared/10 * 2.5
-print ('The volume of paint needed is ',(paint_in_liters), 'liters')
 
-
+    
