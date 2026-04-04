@@ -1,4 +1,4 @@
-#Completed by Yvonne Naa Ardua Anang,UNI: yna2103 with Joseph Duodu,UNI: jd3519
+#Completed by Yvonne Naa Ardua Anang, with Joseph Duodu
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
