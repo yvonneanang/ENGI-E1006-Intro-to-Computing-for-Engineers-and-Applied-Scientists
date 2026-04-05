@@ -1,4 +1,4 @@
-# In Class Set 2
+# In Class Set 2 - Problem 2
 #submitted by Yvonne Naa Ardua Anang 
 #collaborated with Joseph Duodu
 def print_box(s):
