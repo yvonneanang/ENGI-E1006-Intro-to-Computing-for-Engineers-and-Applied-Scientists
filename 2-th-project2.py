@@ -1,4 +1,5 @@
-#submitted by Yvonne Naa Ardua Anang UNI: yna2103
+# Project 2 - Take Home 2
+#submitted by Yvonne Naa Ardua Anang 
 
 def select_meal():
     final_order = []
