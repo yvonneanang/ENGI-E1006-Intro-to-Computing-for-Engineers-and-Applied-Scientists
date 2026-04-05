@@ -1,4 +1,4 @@
-# In Class Set 3
+# In Class Set 3 - Problem 1
 # collaborated with Mikaela, Joseph
 #submitted by Yvonne Naa Ardua Anang
 from collections import defaultdict
