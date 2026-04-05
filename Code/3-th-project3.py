@@ -1,4 +1,6 @@
-#UNI: yna2103
+# Take Home 3 - Project 3
+#By Yvonne Anang
+
 def read_markets(filename):
     
     read_file = open(filename, "r")
