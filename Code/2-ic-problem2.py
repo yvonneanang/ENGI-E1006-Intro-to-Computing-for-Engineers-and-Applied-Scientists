@@ -1,5 +1,6 @@
-#submitted by Yvonne Naa Ardua Anang (uni:yna2103)
-#collaborated with Joseph Duodu(uni: jd3519)
+# In Class Set 2
+#submitted by Yvonne Naa Ardua Anang 
+#collaborated with Joseph Duodu
 def print_box(s):
     if "\\n" in s:
         boxed_list = s.split("\\n")
