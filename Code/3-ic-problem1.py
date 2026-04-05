@@ -1,5 +1,6 @@
-#collaborated with xz2782, jd3549, and another girl whose uni i have misplaced
-#submitted by Yvonne Naa Ardua Anang UNI: yna2103
+# In Class Set 3
+# collaborated with Mikaela, Joseph
+#submitted by Yvonne Naa Ardua Anang
 from collections import defaultdict
 import string
 
