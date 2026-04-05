@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Take Home 5 
+# By Yvonne Anang
 import numpy as np
 from matplotlib import pyplot as plt
 
