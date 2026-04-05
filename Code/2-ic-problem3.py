@@ -1,5 +1,6 @@
-#submitted by Yvonne Naa Ardua Anang (uni:yna2103)
-#collaborated with Joseph Duodu(uni: jd3519)
+# Problem 3 - In Class Set 2
+#submitted by Yvonne Naa Ardua Anang
+#collaborated with Joseph Duodu
 #part 1
 def find(s, substring):
     if substring in s:
