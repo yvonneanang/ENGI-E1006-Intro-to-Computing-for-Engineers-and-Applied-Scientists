@@ -1,4 +1,5 @@
-#UNI: yna2103
+# Take Home 4 
+#By Yvonne Anang
 import random
 import math
 from matplotlib import pyplot as plt
