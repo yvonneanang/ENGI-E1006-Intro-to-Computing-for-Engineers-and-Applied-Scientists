@@ -1,3 +1,4 @@
+# In Class Set 5
 #Completed by Yvonne Naa Ardua Anang, with Joseph Duodu
 import numpy as np
 import matplotlib
