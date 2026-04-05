@@ -1,7 +1,7 @@
 ## -*- coding: utf-8 -*-
 #"""
 #Created on Sun Sep 22 20:02:52 2019
-#
+# Take Home 1 - Part 2
 #@author: Yvonne
 #"""
 #
