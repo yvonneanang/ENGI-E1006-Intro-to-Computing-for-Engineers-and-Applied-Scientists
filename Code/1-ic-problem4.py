@@ -1,4 +1,5 @@
-#sumbitted by Yvonne Naa Ardua Anang (uni: yna2103)
+# Problem 4 - In Class Set 1
+#sumbitted by Yvonne Naa Ardua Anang 
 
 li = [5, 2]
 k = 3
