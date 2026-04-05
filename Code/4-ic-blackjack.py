@@ -1,3 +1,4 @@
+# In Class Set 4 - Black Jack
 #Completed by Yvonne Naa Ardua Anang, with Joseph Duodu
 
 import random
