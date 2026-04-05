@@ -1,7 +1,7 @@
-#submitted by Yvonne Naa Ardua Anang (uni: yna2103)
-# completed by Mikaela Zhang(uni:xz2782) and Yvonne Naa Ardua Anang (uni:yna2103)
+#submitted by Yvonne Naa Ardua Anang 
+# completed by Mikaela Zhang and Yvonne Naa Ardua Anang
 
-# problem 1
+# problem 1 - in class set 1
 
 height_in_cm = int(input ("Please type height in centimeters:"))
 width_in_cm = int(input ("Please type width in centimeters:"))
