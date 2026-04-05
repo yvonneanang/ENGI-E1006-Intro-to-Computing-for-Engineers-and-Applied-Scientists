@@ -3,6 +3,7 @@
 #Created on Mon Sep 16 15:39:34 2019
 #
 #@author: Yvonne
+# Project 0 - In Class Set 0
 #"""
 
 number_of_wives = 7
