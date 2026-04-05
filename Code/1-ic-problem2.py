@@ -1,5 +1,6 @@
-#submitted by Yvonne Naa Ardua Anang (uni: yna2103)
-# completed by Mikaela Zhang(uni:xz2782) and Yvonne Naa Ardua Anang (uni:yna2103)
+#submitted by Yvonne Naa Ardua Anang 
+# completed by Mikaela Zhang and Yvonne Naa Ardua Anang
+# In Class Set 1 - Problem 2
 
 
 input_in_seconds = int(input ("Please type time in seconds:"))
