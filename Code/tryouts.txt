@@ -1,0 +1,22 @@
+Illinois#Illinois Products Farmers Market#Grandstand Ave.#Springfield#62702#0#0
+Illinois#Springfield Old Capitol Farmers Market#Adams Street, Between 2rd & 5th Sts.#Springfield#62701#-89.6486#39.8008
+Kentucky#Farmers Market at the Depot#101 E. Depot Street#Springfield#40069#-85.2227#37.6838
+Kentucky#Washington County Farmers Market#Depot Street#Springfield#40069#-85.2225#37.6854
+Massachusetts#Concerned Citizens of Mason Square/Mason Square Farmers' Market#11 Wilbraham Road#Springfield#1109#-72.5634#42.1109
+Massachusetts#Downtown Farmers Market at Tower Square Park#1477 Main Street#Springfield##-72.5914#42.1033
+Massachusetts#Farmers' Market at Forest Park aka The Farmers' Market at the X#Forest Park at Cyr Arena#Springfield#1108#-72.5589#42.0797
+Massachusetts#Springfield Cooperative Farmers Market#158 Avocado Street#Springfield#1101#-72.5949#42.1038
+Massachusetts#Springfield Farmers Market at the X#IN Forest Park' Cyr Arena parking lot#Springfield#1108#-72.5625#42.0804
+Massachusetts#Springfield Cooperative Farmers Market#158 Avocado Street#Springfield#1101#-72.5949#42.1038
+Massachusetts#Springfield Shriner's Hospital Farmers Market #516 Carew Street#Springfield#1104#-72.5922#42.1212
+Massachusetts#Springfield Tower Square Farmers Market#1500 Main Street#Springfield#1103#-72.5916#42.1029
+Massachusetts#Springfield/Mason Square Farmers Market#Mason Sq. Health Center, 11 Wilbraham Rd.#Springfield#1038#-72.5638#42.1109
+Michigan#City of Springfield#503 Military Avenue#Springfield#49037#-85.2643#42.3252
+Michigan#Springfield Farmers Market#503 Military Avenue#Springfield#49037#-85.2668#42.3249
+Missouri#C-Street Market#321 East Commercial#Springfield#65803#-93.2895#37.2298
+Missouri#Eastland Farmers Market#1835 E. Saint Louis Street#Springfield#65802#-93.2595#37.2085
+Missouri#Friday Night Farmers Market#107 Park Central Square#Springfield#65806#-93.2911#37.209
+Missouri#Greater Springfield Farmers' Market#Battlefield Mall parking lot#Springfield##-93.2617#37.1626
+New Jersey#Springfield Farmers Market - Fall#Caldwell Place#Springfield#7081#-74.3143#40.709
+New Jersey#Township of Springfield Farmers Market- Summer#101 Mountain Ave.#Springfield##-74.3142#40.7068
+Oregon#Springfield Farmers' Market#225 North 5th Street#Springfield#97477#-123.019#44.0472
