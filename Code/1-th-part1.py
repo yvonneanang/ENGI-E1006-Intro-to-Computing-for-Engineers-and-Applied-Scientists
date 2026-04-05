@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #"""
 #Created on Sun Sep 22 17:55:43 2019
-#
+# Take Home 1 - Part 1
 #@author: Yvonne
 #"""
 import random
